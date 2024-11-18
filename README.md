@@ -5,7 +5,7 @@ This repository contains 21 React projects, each designed to help you learn and 
 
 ## Projects List  
 
-### 1. [Counter App](./counter-app)  
+### 1. [Counter App](./Day01/counter_app)  
 - **Learnings**: `useState`, event handling  
 - **Features**: State management, button events  
 
