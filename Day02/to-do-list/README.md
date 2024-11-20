@@ -24,7 +24,7 @@ This project is part of the **21 Days, 21 React Projects** challenge. The goal i
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/yourusername/to-do-list  
+   git clone https://github.com/TheBMPatil/21_Days_21_Projects/tree/master/Day02/to-do-list
    cd to-do-list  
    ```  
 
@@ -68,11 +68,7 @@ Renders individual task items with options to mark as completed or delete.
 - Tasks are automatically removed if the delete button is clicked.  
 - Dynamic message if there are no tasks.  
 
-## Demo  
-> **Showcase your app in action! Attach the video here.**  
 
-## Screenshot  
-> **Add a screenshot of the app here to visually demonstrate the project.**  
 
 ## What's Next?  
 Stay tuned for **Day 3: Weather App**, where we’ll explore API integration and dynamic data fetching using `useEffect`.  
