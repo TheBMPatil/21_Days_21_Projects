@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 # Day 3: Weather App
 
 ## Overview
