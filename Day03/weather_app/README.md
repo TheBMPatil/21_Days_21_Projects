@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 # Day 3: Weather App
 
 ## Overview
@@ -51,4 +48,23 @@ Follow the steps below to set up the Weather App on your local machine:
 ## Screenshots
 Below are some screenshots showcasing the app:
 
->>>>>>> 2758c4f969379d866fec746b243eef6dfc6adaf2
+### Landing Page :
+![App Screenshot 1](./Screenshots/1.png)
+
+
+### When You dont enter city name and click search on empty input :
+![App Screenshot 1](./Screenshots/emptys.png)
+
+
+### When invalidd city name is entered :
+![App Screenshot 1](./Screenshots/invalid.png)
+
+
+### Valid Input :
+![App Screenshot 1](./Screenshots/valid.png)
+
+
+### When There is problem in your API Key (Wrong /Invalid API Key) : 
+![App Screenshot 1](./Screenshots/wwrongapi.png)
+
+
