@@ -33,13 +33,13 @@ This repository contains 21 React projects, each designed to help you learn and 
 - **Learnings**: Interval-based state updates, `setInterval`, `clearInterval`  
 - **Features**: Time management, interval clearing  
 
-### 8. [Expense Tracker](./expense-tracker)  
-- **Learnings**: Complex state management, conditional rendering  
-- **Features**: Expense tracking, state complexity  
-
-### 9. [User Profile Card](./user-profile-card)  
+### 8. [User Profile Card](./user-profile-card)  
 - **Learnings**: Props for reusable components, Bootstrap styling  
 - **Features**: Reusable components, responsive layouts  
+
+### 9. [Expense Tracker](./expense-tracker)  
+- **Learnings**: Complex state management, conditional rendering  
+- **Features**: Expense tracking, state complexity  
 
 ### 10. [Recipe Finder](./recipe-finder)  
 - **Learnings**: Search functionality, dynamic list rendering, API integration  

@@ -43,20 +43,11 @@ The Stopwatch App is a simple and interactive tool to track elapsed time with mi
 
 ---
 
-## Preview
-Attached is a video demonstration showcasing:
-1. Starting the stopwatch to track time.
-2. Stopping the timer and resuming it seamlessly.
-3. Resetting the timer and its effects.
-
----
-
 ## What's Next?
-Tomorrow’s project: **Expense Tracker**
-- Building a more complex state management system for tracking expenses and displaying summaries.
+Tomorrow’s project: **User Pofile Card**
 
 ---
 
 *Stay tuned for more updates!*
-```
+
 
