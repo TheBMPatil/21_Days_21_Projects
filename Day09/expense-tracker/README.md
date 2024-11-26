@@ -21,7 +21,7 @@ A simple React application to track and manage your daily expenses. This app all
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone 
+   git clone https://github.com/TheBMPatil/21_Days_21_Projects/tree/main/Day09/expense-tracker
    ```  
 2. Navigate to the project directory:  
    ```bash
