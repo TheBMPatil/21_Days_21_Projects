@@ -1,0 +1,88 @@
+/* General container styling */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: linear-gradient(#e66465, #9198e5);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+h2 {
+  color: #f3f3f3;
+}
+
+/* Form styling */
+.form-label {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #ff0000;
+  border: none;
+  color: rgb(209, 199, 199);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #51b300;
+}
+
+/* Error message styling */
+.text-danger {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* List and expense item styling */
+.list-group-item {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.list-group-item:hover {
+  background-color: #f1f1f1;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+.text-dark {
+  color: #343a40;
+}
+
+.badge {
+  background-color: #007bff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-muted {
+  color: #6c757d;
+}
+
+.mb-4 {
+  margin-bottom: 20px;
+}
