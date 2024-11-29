@@ -9,47 +9,47 @@ This repository contains 21 React projects, each designed to help you learn and 
 - **Learnings**: `useState`, event handling  
 - **Features**: State management, button events  
 
-### 2. [To-Do List](./to-do-list)  
+### 2. [To-Do List](Day02/to-do-list)  
 - **Learnings**: Array state management, conditional rendering, form handling  
 - **Features**: Task addition/editing/deletion, input forms  
 
-### 3. [Weather App](./weather-app)  
+### 3. [Weather App](Day03/weather_app)  
 - **Learnings**: `useEffect`, API calls, async data fetching  
 - **Features**: Fetching external data, asynchronous handling  
 
-### 4. [Basic Calculator](./basic-calculator)  
+### 4. [Basic Calculator](Day04/Calculator)  
 - **Learnings**: Event handling, dynamic updates, math logic  
 - **Features**: Math logic implementation, state updates  
 
-### 5. [Color Picker](./color-picker)  
+### 5. [Color Picker](Day05/ColourPicker)  
 - **Learnings**: Forms, input handling, inline styles  
 - **Features**: Dynamic styles, color handling  
 
-### 6. [Random Quote Generator](./random-quote-generator)  
+### 6. [Random Quote Generator](Day06/Random_Quote_Generator)  
 - **Learnings**: API fetching, managing dynamic state updates  
 - **Features**: Dynamic quote fetching, async updates  
 
-### 7. [Stopwatch/Timer](./stopwatch-timer)  
+### 7. [Stopwatch/Timer](Day07/Stop-watch)  
 - **Learnings**: Interval-based state updates, `setInterval`, `clearInterval`  
 - **Features**: Time management, interval clearing  
 
-### 8. [User Profile Card](./user-profile-card)  
+### 8. [User Profile Card](Day08/User_Profile)  
 - **Learnings**: Props for reusable components, Bootstrap styling  
 - **Features**: Reusable components, responsive layouts  
 
-### 9. [Expense Tracker](./expense-tracker)  
+### 9. [Expense Tracker](Day09/expense-tracker)  
 - **Learnings**: Complex state management, conditional rendering  
 - **Features**: Expense tracking, state complexity  
 
-### 10. [Recipe Finder](./recipe-finder)  
+### 10. [Recipe Finder](Day10/recipe-finder)  
 - **Learnings**: Search functionality, dynamic list rendering, API integration  
 - **Features**: API data integration, list filtering  
 
-### 11. [Chat Application UI](./chat-application-ui)  
+### 11. [Chat Application UI](Day11/Chat-App-UI)  
 - **Learnings**: Bootstrap design, chat log state management  
 - **Features**: Chat UI structure, log management  
 
-### 12. [Movie App](./movie-app)  
+### 12. [Movie App](Day12/movie_finder)  
 - **Learnings**: API integration, filtering, dynamic UI updates  
 - **Features**: Dynamic data filtering, API handling  
 
