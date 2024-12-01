@@ -18,7 +18,7 @@ A React application that allows users to write and preview markdown content. Thi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TheBMPatil/21_Days_21_Projects.git
    ```
 2. Navigate to the project directory:
    ```bash
