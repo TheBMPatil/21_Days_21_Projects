@@ -1,0 +1,12 @@
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+textarea {
+  font-family: 'Courier New', Courier, monospace;
+}
+.preview {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+  white-space: pre-wrap;
+}
