@@ -27,7 +27,7 @@ A CRUD (Create, Read, Update, Delete) application built using the MERN stack (Mo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/React_MERN_MongoDB_CRUD.git
+   git clone https://github.com/TheBMPatil/21_Days_21_Projects.git
    ```
 2. Navigate to the backend directory:
    ```bash
