@@ -69,7 +69,7 @@ This repository contains 21 React projects, each designed to help you learn and 
 - **Learnings**: React Router for navigation, multi-page layouts  
 - **Features**: Navigation with React Router  
 
-### 17. [Blog App](./blog-app)  
+### 17. [React_MERN_MongoDB_CRUD](./React_MERN_MongoDB_CRUD)  
 - **Learnings**: CRUD operations with MongoDB, routing  
 - **Features**: Database CRUD operations  
 
@@ -77,9 +77,9 @@ This repository contains 21 React projects, each designed to help you learn and 
 - **Learnings**: Authentication state, JWT integration, MongoDB forms  
 - **Features**: User authentication, form handling  
 
-### 19. [Job Board App](./job-board-app)  
-- **Learnings**: Combining local and API state, advanced search filtering  
-- **Features**: Search/filter integration, database usage  
+### 19. [Typing test App ](./typing-test)  
+- **Learnings**: Timer-based state updates, dynamic text generation, performance tracking
+- **Features**: Typing speed measurement, error highlighting, accuracy calculation 
 
 ### 20. [Real-Time Chat App](./real-time-chat-app)  
 - **Learnings**: Real-time updates with state, chat data structuring  
