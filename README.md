@@ -81,9 +81,10 @@ This repository contains 21 React projects, each designed to help you learn and 
 - **Learnings**: Timer-based state updates, dynamic text generation, performance tracking
 - **Features**: Typing speed measurement, error highlighting, accuracy calculation 
 
-### 20. [Landing Page](./dashboard)  
-- **Learnings**: Using chart libraries (e.g., recharts), MongoDB integration for data  
-- **Features**: Charts, dynamic dashboards  
+### 20. [Landing Page](./landing-page)  
+- **Learnings**: Using React Router for navigation, implementing form validation, and building responsive layouts with Bootstrap  
+- **Features**: Multi-section layout, contact form, responsive design, smooth navigation
+
 
 ### 21. [Real-Time Chat App](./real-time-chat-app)  
 - **Learnings**: Real-time updates with state, chat data structuring  
